@@ -18,10 +18,14 @@ Saat ini, aplikasi masih dalam tahap pengembangan. Berikut adalah roadmap pengem
 Karena aplikasi belum tersedia di Play Store, Anda dapat mengunduh dan menginstal file `.apk` yang tersedia di repositori ini.
 
 ### Cara Instalasi APK
-1. Unduh file APK dari repositori ini.
+1. Unduh file APK dari repositori ini dengan klik tombol di bawah.
 2. Izinkan instalasi dari sumber tidak dikenal di perangkat Anda.
 3. Buka file APK dan instal aplikasi.
 4. Jalankan aplikasi dan mulai eksplorasi!
+
+### Unduh Aplikasi
+Klik tautan di bawah untuk mengunduh aplikasi:
+- [Unduh Foodiary untuk Android](https://github.com/taufanAli65/Foodiary-App/raw/main/Foodiary.apk)
 
 ## 🌟 Kontribusi
 Saat ini, repositori hanya berisi file APK, tetapi jika Anda ingin berkontribusi dalam pengembangan kode, silakan hubungi pengembang.
